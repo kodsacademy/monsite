@@ -1,0 +1,38 @@
+body{
+	color:black;
+	background-color:rgb(255,255,255);
+	font-family:cursive;
+	font-size:15px;
+	line-height:20px;
+	text-align:center;
+	margin:0px;
+}
+
+h1{
+	font-variant:small-caps;
+	letter-spacing:1px;
+	font-size:40px;
+	color:#28117a;
+}
+
+p{
+	padding:0px 150px;
+}
+
+img{
+	max-width:100%;
+}
+
+.photo{
+	border-radius:15px;
+	box-shadow: 10px 10px 15px;
+}
+
+a{
+	color:#28117a;
+	text-decoration:none;
+}
+
+a:hover{
+	color:red;
+}
